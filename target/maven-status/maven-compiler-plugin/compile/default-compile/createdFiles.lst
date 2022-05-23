@@ -1,0 +1,8 @@
+ch/zhaw/infm/springboottemplate/InfMApplication.class
+ch/zhaw/infm/springboottemplate/entities/Product.class
+ch/zhaw/infm/springboottemplate/restcontroller/CategoryRestController.class
+ch/zhaw/infm/springboottemplate/entities/Category.class
+ch/zhaw/infm/springboottemplate/repositories/ProductRepository.class
+ch/zhaw/infm/springboottemplate/repositories/CategoryRepository.class
+ch/zhaw/infm/springboottemplate/restcontroller/ProductRestController.class
+ch/zhaw/infm/springboottemplate/restcontroller/SwaggerRestController.class
