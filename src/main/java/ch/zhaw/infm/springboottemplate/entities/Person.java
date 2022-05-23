@@ -3,7 +3,7 @@ package ch.zhaw.infm.springboottemplate.entities;
 import javax.persistence.*;
 
 @Entity
-public class Person {
+public class Person extends TemporalEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long categoryId;

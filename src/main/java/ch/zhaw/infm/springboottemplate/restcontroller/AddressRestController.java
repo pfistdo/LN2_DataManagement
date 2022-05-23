@@ -1,7 +1,6 @@
 package ch.zhaw.infm.springboottemplate.restcontroller;
 
 import ch.zhaw.infm.springboottemplate.entities.Address;
-import ch.zhaw.infm.springboottemplate.entities.Category;
 import ch.zhaw.infm.springboottemplate.repositories.AddressRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

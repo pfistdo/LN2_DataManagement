@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.time.LocalDate;
 
 @Entity
-public class Product {
+public class Product extends TemporalEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long productId;
