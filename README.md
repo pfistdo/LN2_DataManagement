@@ -1,6 +1,6 @@
 # LN4_DataManagement
 Git Repo fpor the LN4 in Data Management
-## Surpassing the Expecations
+## Surpassing the Expectations
 ### Domain Model
 - Add Class Hierarchy with Annotation MappedSupperclass in abstract class TemporalEntity
 ### Generally
